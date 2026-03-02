@@ -1,0 +1,2 @@
+Bei Aufgabe 3 ist alles staged
+Bei Aufgabe 4 ist bar.txt und foo.txt commited
