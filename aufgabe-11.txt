@@ -1,0 +1,5 @@
+Anwendungsfälle:
+1. Wenn man lang nicht mehr am Projekt gearbeitet hat und man wissen will,
+ wann man das letzt mal dran gearbeitet hat
+2.Im nachhinein das Projekt zu dokumentieren.
+

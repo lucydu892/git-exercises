@@ -1,0 +1,8 @@
+git rm = löscht die Datei und merkt es im Arbeitsverzeichnis
+rm = löscht die Datei
+
+wiederherstellen bei 
+git rm = git restore <file>
+rm = git restore --staged <file> to untagged
+
+Umbennen 
